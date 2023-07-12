@@ -13,4 +13,4 @@ I'm 영인, a passionate developer interested in SSAFY. Welcome to my GitHub pro
 
 <!-- GitHub 활동 -->
 ## GitHub Activity
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssafyguy&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sirlyun&show_icons=true&theme=radical)
