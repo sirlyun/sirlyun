@@ -6,7 +6,7 @@
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirlyun&count_private=true&theme=gruvbox)](https://github.com/sirlyun?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlyun&layout=compact&theme=gruvbox)](https://github.com/sirlyun?tab=repositories)
   
-  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=sirlyun&theme=dark)](https://solved.ac/yunsnow2412)
+  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=yunsnow2412&theme=dark)](https://solved.ac/yunsnow2412)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirlyun&repo=algorithm&theme=gruvbox)](https://github.com/sirlyun/algorithm) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirlyun&repo=MovieBackEnd&theme=gruvbox)](https://github.com/sirlyun/MovieBackEnd)
   
