@@ -10,6 +10,4 @@
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirlyun&repo=algorithm-study&theme=gruvbox)](https://github.com/sirlyun/algorithm-study) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirlyun&repo=SirlyunAlgo&theme=gruvbox)](https://github.com/sirlyun/SirlyunAlgo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirlyun&repo=MovieBackEnd&theme=gruvbox)](https://github.com/sirlyun/MovieBackEnd)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirlyun&repo=Wondoo-Lab&theme=gruvbox)](https://github.com/sirlyun/Wondoo-Lab)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirlyun&repo=Trip-Together&theme=gruvbox)](https://github.com/sirlyun/Trip-Together)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sirlyun&repo=Vita&theme=gruvbox)](https://github.com/sirlyun/Vita)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchacha3088&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23555555&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-  
 </div>
