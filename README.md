@@ -2,7 +2,7 @@
 
 # sirlyun
 
-### 🧾 [Resume.](https://morethan-sirlyun.vercel.app/about)&nbsp;&nbsp; 📚 [Study.](https://morethan-sirlyun.vercel.app)&nbsp;&nbsp; 📫 [Email.](mailto:sirlyun23@gmail.com)
+### 📚 [Study.](https://sirlyun.github.io/)&nbsp;&nbsp; 📫 [Email.](mailto:sirlyun23@gmail.com)
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirlyun&count_private=true&theme=gruvbox)](https://github.com/sirlyun?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirlyun&layout=compact&theme=gruvbox)](https://github.com/sirlyun?tab=repositories)
   
